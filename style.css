@@ -275,9 +275,6 @@ footer {
   .hero-section h2 {
     font-size: 6rem;
   }
-  span {
-    font-size: 10rem;
-  }
   .hero-section h3 {
     font-size: 1.8rem;
     padding: 0 5rem;
@@ -293,9 +290,6 @@ footer {
 @media (max-width: 360px) {
   .hero-section h2 {
     font-size: 5rem;
-  }
-  span {
-    font-size: 8rem;
   }
   .hero-section h3 {
     font-size: 1.6rem;
