@@ -86,7 +86,7 @@ function confirmPasswordAsTyping() {
   }
 }
 
-form.addEventListener('submit', (e) => {
+form.addEventListener('submit', e => {
   e.preventDefault();
 
   checkEmptyInput(inputArray);
